@@ -1,0 +1,38 @@
+
+
+body {
+  background-color: #EAF6F6;
+  text-align: center;
+
+
+}
+
+.content {
+  max-width: 600px;
+  margin: auto;}
+
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 2px;
+  border-top-color: grey;
+  width: 3%
+}
+
+h1 {
+  color: orange;
+  text-shadow: 2px 2px 5px black;
+
+}
+
+h3 {
+  color: #66BFBF;
+  text-shadow: 1px 1px 1px black;
+}
+.center {
+  margin: auto;
+  width: 50%;
+
+}
